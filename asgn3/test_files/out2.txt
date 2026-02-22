@@ -1,0 +1,3 @@
+2 Strongly Connected Component(s):
+1
+2
